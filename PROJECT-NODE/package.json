@@ -1,0 +1,22 @@
+{
+  "name": "project-node",
+  "version": "0.0.1",
+  "description": "Es un proyecto para aprnder NodeJS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node app.js",
+    "build": "node app.js",
+    "console": "echo 'Hola mundo desde Script' && npm run dev"
+  },
+  "author": "Jeffer Ruiz Soto",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env-var": "^7.4.1"
+  }
+}

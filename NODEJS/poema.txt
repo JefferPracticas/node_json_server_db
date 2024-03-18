@@ -1,0 +1,19 @@
+Entre líneas de código se desliza,
+Node.js, un mundo que hipnotiza.
+Con sus módulos y funciones,
+teje historias, sueños y emociones.
+
+En cada callback, un verso se escribe,
+en cada await, un suspiro se vive.
+Con su poder de asincronía,
+crea poesía en la lejanía.
+
+En el servidor, su voz resuena,
+con respuestas que el mundo ordena.
+Con Express como su aliado,
+navega el internet, siempre adelante.
+
+Node.js, en su mundo digital,
+un poema corto, pero vital.
+Con su arte de programación,
+escribe la historia de la innovación.

@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jeffer",
+      "apellidos": "Ruiz",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "AngularJS"
+        }
+      ],
+      "id": "45fc"
+    },
+    {
+      "0": {
+        "nombre": "Merlin",
+        "apellidos": "Bernal Cuadros",
+        "materias": [
+          {
+            "nombre": "NextJS"
+          },
+          {
+            "nombre": "KnokoutJS"
+          },
+          {
+            "nombre": ":Net C#"
+          }
+        ]
+      },
+      "id": "ea8e",
+      "apellidos": "Ruiz Santos"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellidos": "Rodriguez",
+      "promedio": 8.2,
+      "id": "c634"
+    },
+    {
+      "nombre": "Alfoncina",
+      "apellidos": "Stoni",
+      "promedio": 9,
+      "id": "2397"
+    },
+    {
+      "nombre": "Juan",
+      "apellidos": "Prieto",
+      "promedio": 10,
+      "id": "fe46"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duración": 7,
+      "dificulta": "interemdia",
+      "id": "02d2"
+    },
+    {
+      "nombre": "ReactJS",
+      "duración": 8,
+      "dificulta": "interemdia",
+      "id": "8ce1"
+    },
+    {
+      "nombre": "AngularJS",
+      "duración": 8,
+      "dificulta": "alta",
+      "id": "3cc7"
+    }
+  ]
+}
