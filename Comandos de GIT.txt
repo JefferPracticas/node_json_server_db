@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"
+--git branch -M main
+git remote add origin https://github.com/JefferPracticas/node_web_server.git
+git push -u origin master
